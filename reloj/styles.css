@@ -1,0 +1,19 @@
+/* ...existing code... */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.reloj {
+    /* Optional: style your clock */
+    font-size: 3rem;
+    padding: 20px 40px;
+    background: #222;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+}
+/* ...existing code... */
